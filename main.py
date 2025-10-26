@@ -18,8 +18,8 @@ screen = Screen()
 
 screen.title('USA_game')
 screen.setup(725,491)
-screen.bgpic('./USA_game/Archive/blank_states_img.gif')  # можно так (это фон)
-# screen.addshape(image) # а можно так  (это что не знаю)
+screen.bgpic('./USA_game/Archive/blank_states_img.gif')  # можно так (устанавливаем каринку как фон)
+# screen.addshape(image) # а можно так  (добавляем картинку как фигуру)
 # turtle.shape(image)
 # -------------------------------------------------
 
